@@ -1,4 +1,4 @@
-This is a Racket version of a concentration-style game.
+This is a Racket version of a concentration-style tile game.
 
  Required collections: 
     lysseus/utils
